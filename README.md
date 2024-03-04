@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hi there 👋, Courtney-Jade
+#### Software Developer
+I'm an aspiring Software Developer.I enjoy working as a front-end Dev and being able to put my creativity to the test
 
-I'm Courtney-Jade from South Africa and I do Development.I enjoy working with CSS and Tailwind CSS.
+Skills:  JS / HTML / CSS/ Tailwind CSS
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=courtney-jade)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning CSS / Javascript 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Courtney-Jade)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/@courtneyjade905/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/Courtney-Jade-Bergstedt)  
