@@ -1,8 +1,6 @@
-[Software Development](https://github.com/courtney-jade/courtney-jade/blob/masters/Screenshot 2024-03-05 014412.png)
-
-### Hi there 👋, Courtney-Jade
+### Hello World👋, Courtney-Jade
 #### Software Developer
-I'm an aspiring Software Developer.I enjoy working as a front-end Dev and being able to put my creativity to the test
+I'm Courtney-jade,from South Africa.An aspiring Software Developer.I enjoy working as a front-end Dev and being able to put my creativity to the test.
 
 Skills:  JS / HTML / CSS/ Tailwind CSS
 
