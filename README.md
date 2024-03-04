@@ -1,4 +1,4 @@
-[Software Development](https://github.com/courtney-jade/courtney-jade/blob/maters/Screenshot 2024-03-05 014412.png)
+[Software Development](https://github.com/courtney-jade/courtney-jade/blob/masters/Screenshot 2024-03-05 014412.png)
 
 ### Hi there 👋, Courtney-Jade
 #### Software Developer
